@@ -1,5 +1,5 @@
 # Open-Education
-==============
+----
 
 ##About the manifesto
 
@@ -16,3 +16,5 @@
   The new challenge in education is to create an education system that can attend each student’s unique needs and can, at the same time, be accessible to everyone. Our new education system should be global, accessible and creative.
 
   Our current world requires an education system that can provide students customized education because they all have different needs. It should be flexible enough to let them explore other talents that would, otherwise, be wasted because students don't get to study non-traditional subjects. We need personalized education to encourage students to be creative leaders — we don’t need an education that kills creativity. It should also give students a global perspective and be accessible, open to everyone.
+  
+##Feel free to collaborate to the manifesto 
