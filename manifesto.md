@@ -3,7 +3,7 @@
 
 ##About the manifesto
 
-	The Open Education Manifesto is supposed to be an open source manifesto created through the vision and collaboration of leaders and students who want to improve the education system. Our goal is to define the future of education and unite leaders from different industries to advance education. As a privileged student who has access to top-notch education, I recognize it is my duty to collaborate to a better education system for the future generations.
+  The Open Education Manifesto is supposed to be an open source manifesto created through the vision and collaboration of leaders and students who want to improve the education system. Our goal is to define the future of education and unite leaders from different industries to advance education. As a privileged student who has access to top-notch education, I recognize it is my duty to collaborate to a better education system for the future generations.
 	
 ##The history of education
 
