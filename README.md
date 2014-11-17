@@ -21,4 +21,4 @@
   
   ![Future of Education](future_of_education.png)
   
-##Feel free to collaborate to the manifesto 
+##Feel free to collaborate with the manifesto 
